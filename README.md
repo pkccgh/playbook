@@ -1,8 +1,7 @@
 This is the Way
 
 [Framing](framing.md)
-+ TODO: Create page for Framing
-+ TODO: Create page for Pitch Shaping
-+ TODO: Create page for Technical Shaping
-+ TODO: Create page for Team Alignment
-+ TODO: Create page for Scoping
+[Pitch Shaping](pitching.md)
+[Technical Shaping](technical.md)
+[Team Alignment](alignment.md)
+[Scoping](scoping.md)
