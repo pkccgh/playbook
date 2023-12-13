@@ -1,9 +1,22 @@
 # Technical Shaping
 
-- This should be during a team meeting with all team members represented.
-- Make sure all rabbit holes have been answered.
-- Make sure all shaping checklist items have been handled.
-- Answer any last minute questions and unknowns.
-- Review the solution and if it fits inside the appetite. Make adjustments if needed.
-- The pitch, solution, and designs match.
-- The team aligns on and documents nice to haves.
+## Members
+Whole build team
+
+Prep: Ensure the Pitch is ready to review
+
+During:
+- The pitch is sold to the team. 
+- The team should achieve alignment and understanding on what is to be built and why. 
+- Initial clarifying questions.
+- Designs are reviewed. 
+- Evaluate the Pitch against the appetite.
+
+Success: The Team understands the Pitch and has the information they need to
+technically shape the work
+
+Questions?
+
+- Is the context clear?
+- Does the Pitch fit the appetite?
+- Do we know what we need to learn?
