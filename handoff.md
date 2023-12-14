@@ -1,4 +1,4 @@
-# Technical Shaping
+# Technical Handoff
 
 ## Members
 Whole build team
