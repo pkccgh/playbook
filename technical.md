@@ -1,7 +1,7 @@
 # Technical Shaping
 
 ## Members
-Engineering + Design
+Build Team
 
 Questions it has to answer:
 - How are we going to build this?
