@@ -3,9 +3,6 @@
 ## Members
 Whole Team
 
-Question it has to answer:
-- Are we ready to begin work on this?
-
 Prep: [Create Basecamp Project](https://www.notion.so/companycam/Cycle-Setup-221ad631b5a34e3e8e8302e53b03e1f8)
 
 Steps:
@@ -15,6 +12,8 @@ Steps:
 - Sequence scopes in the order the team will work on them.
 - Identify the Spotlight Scope. Which scope is the most critical to work on.
 - Run through the project scope by scope to see if it fits within the appetite.
+
+Success: Every step of the project organized in sequential manageable chunks
 
 Questions:
 - What are we missing?
